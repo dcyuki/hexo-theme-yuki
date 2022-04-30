@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-yuki",
+  "version": "0.0.0",
+  "description": "とある咕咕の hexo 主题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcyuki/hexo-theme-yuki.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "yuki",
+    "docs"
+  ],
+  "author": "yuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcyuki/hexo-theme-yuki/issues"
+  },
+  "homepage": "https://github.com/dcyuki/hexo-theme-yuki#readme"
+}
